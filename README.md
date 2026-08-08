@@ -18,7 +18,7 @@ The API provides complete CRUD functionality for managing todo items and is depl
 * **Production Backend API:** https://mongoose-crud-backend.vercel.app
 * **Todo Resource Endpoint:** `https://mongoose-crud-backend.vercel.app/api/todos`
 * **Frontend Application:** https://mongoose-crud-frontend.vercel.app
-* **GitHub Repository:** [mongoose-crud-backend](https://github.com/muhammadikram23/mongoose-crud-backend)
+* **GitHub Repository:** [mongoose-crud-frontend](https://github.com/muhammadikram23/mongoose-crud-frontend))
 
 ---
 
